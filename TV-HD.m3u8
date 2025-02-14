@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=\"41\" tvg-name=\"XXX 1\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 1
+#EXTINF:-1 ,XXX 1
 http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/41
 #EXTINF:-1 tvg-id=\"164\" tvg-name=\"XXX 2\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 2
 http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/164
