@@ -1,6 +1,39 @@
 #EXTM3U
-#EXTINF:-1,XXX 1
+
+#EXTINF:-1 tvg-id=\"41\" tvg-name=\"XXX 1\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 1
 http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/41
+#EXTINF:-1 tvg-id=\"164\" tvg-name=\"XXX 2\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 2
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/164
+#EXTINF:-1 tvg-id=\"162\" tvg-name=\"XXX 3\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 3
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/162
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"XXX 4\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 4
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1514
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"XXX 5\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 5
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1564
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"XXX 6\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 6
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1565
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"XXX 7\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 7
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1566
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"XXX 8\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",XXX 8
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1567
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BALKAN EROTIC\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",BALKAN EROTIC
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1474
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"DORCEL TV\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",DORCEL TV
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/1513
+#EXTINF:-1 tvg-id=\"PINK_EROTIC_1\" tvg-name=\"PINK EROTIC 1\" tvg-logo=\"https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic-logo.png\" group-title=\"XXX\" parent-code=\"1234\",PINK EROTIC 1
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/96
+#EXTINF:-1 tvg-id=\"PINK_EROTIC_2\" tvg-name=\"PINK EROTIC 2\" tvg-logo=\"https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic2-logo.png\" group-title=\"XXX\" parent-code=\"1234\",PINK EROTIC 2
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/97
+#EXTINF:-1 tvg-id=\"PINK_EROTIC_3\" tvg-name=\"PINK EROTIC 3\" tvg-logo=\"https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic3.png\" group-title=\"XXX\" parent-code=\"1234\",PINK EROTIC 3
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/98
+#EXTINF:-1 tvg-id=\"PINK_EROTIC_4\" tvg-name=\"PINK EROTIC 4\" tvg-logo=\"https://tvprofil.com/cdn/100x64/4/img/kanali-logo/erotic4.png\" group-title=\"XXX\" parent-code=\"1234\",PINK EROTIC 4
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/99
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BALKAN SKY EROTIC 1\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",BALKAN SKY EROTIC 1
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/2356
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BALKAN SKY EROTIC 2\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",BALKAN SKY EROTIC 2
+http://client.nodomain.vip:80/MarkoKozul/pCNUh7z1Fv/2357
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BALKAN SKY EROTIC 3\" tvg-logo=\"\" group-title=\"XXX\" parent-code=\"1234\",BALKAN SKY EROTIC 3
+
 #EXTINF:-1,oklivetv1
 https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.mp4.m3u8
 #EXTINF:-1,oklivetv2
