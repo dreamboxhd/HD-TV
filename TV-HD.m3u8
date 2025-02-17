@@ -3,7 +3,7 @@
 #EXTINF:-1,live1
 https://edge1-phx.live.mmcdn.com/live-hls/amlst:germaine_jones-sd-e055c4f351d1fae4c7b3f1e96786a533695c601001ff797f9994854d6a2aed31_trns_h264/playlist.m3u8
 #EXTINF:-1,live2
-https://edge9-ams.live.mmcdn.com/live-hls/amlst:jennycutey-sd-4c875fa6f0bf22dbaadef4944144e7c80848fdeb29e3af1763234df278c05fee_trns_h264/chunklist_w223709386_b5128000_t64RlBTOjMwLjA=.m3u8
+https://stackvaults-hls.xcdnpro.com/c61d6a4b-e716-49bb-ab43-ee22f0b95026/hls/as+2a0e3ec2-af61-41ad-a27f-ba4b421f1321/index.m3u8
 #EXTINF:-1,live3
 https://edge9-ams.live.mmcdn.com/live-hls/amlst:jennycutey-sd-4c875fa6f0bf22dbaadef4944144e7c80848fdeb29e3af1763234df278c05fee_trns_h264/media_w223709386_b5128000_t64RlBTOjMwLjA=_8652.ts
 #EXTINF:-1,live4
