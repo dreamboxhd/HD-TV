@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,live1
-https://edge15-ams.live.mmcdn.com/live-hls/amlst:popshhhik-sd-cc86e2f8e7b6b3a6494d506c5d632f3eb4e5ab4a02c3ca6ab18733de84f638b9_trns_h264/playlist.m3u8
+https://edge1-phx.live.mmcdn.com/live-hls/amlst:germaine_jones-sd-e055c4f351d1fae4c7b3f1e96786a533695c601001ff797f9994854d6a2aed31_trns_h264/playlist.m3u8
 #EXTINF:-1,live2
 https://edge9-ams.live.mmcdn.com/live-hls/amlst:jennycutey-sd-4c875fa6f0bf22dbaadef4944144e7c80848fdeb29e3af1763234df278c05fee_trns_h264/chunklist_w223709386_b5128000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1,live3
