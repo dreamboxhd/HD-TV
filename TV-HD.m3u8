@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 ,Unknown_1
-https://edge27-ash.live.mmcdn.com/live-hls/amlst:david_0223-sd-c2d8cfac39ac0f062aa73072b3e0c51f45d38892a93d78f404bf1dec1afe1869_trns_h264/playlist_sfm4s.m3u8.mp4
+https://edge27-ash.live.mmcdn.com/live-hls/amlst:david_0223-sd-c2d8cfac39ac0f062aa73072b3e0c51f45d38892a93d78f404bf1dec1afe1869_trns_h264/playlist_sfts.m3u8?wowzasegmentformat=ts
 #EXTINF:-1 ,Unknown_2
-https://edge18-atl.live.mmcdn.com/live-hls/amlst:sary_hott-sd-d84ad53e467a104e26a93bef4628018586895a65779ed6f34b91607611d8a6b1_trns_h264/playlist_sfm4s.m3u8
+https://edge18-atl.live.mmcdn.com/live-hls/amlst:sary_hott-sd-d84ad53e467a104e26a93bef4628018586895a65779ed6f34b91607611d8a6b1_trns_h264/playlist.m3u8?wowzasegmentformat=ts
 #EXTINF:-1 ,Unknown_3
-https://edge24-chi.live.mmcdn.com/live-hls/amlst:enncandy-sd-bc373dcb3029a368a30a187913cf6c88933b61bbb3485bfa08b9016f3bbb2526_trns_h264/playlist_sfm4s.m3u8
+https://edge24-chi.live.mmcdn.com/live-hls/amlst:enncandy-sd-bc373dcb3029a368a30a187913cf6c88933b61bbb3485bfa08b9016f3bbb2526_trns_h264/playlists.m3u8?wowzasegmentformat=m4s
 #EXTINF:-1 ,Unknown_4
-https://edge20-ash.live.mmcdn.com/live-c-fhls/amlst:fox_hev-sd-5586e26c95383c0e933e26aa7998d74e457210edcf474cbe9e07826cace32c04_trns_h264/playlist_sfm4s.m3u8
+https://edge20-ash.live.mmcdn.com/live-c-fhls/amlst:fox_hev-sd-5586e26c95383c0e933e26aa7998d74e457210edcf474cbe9e07826cace32c04_vo_sfm4s.m3u8
 #EXTINF:-1 ,Unknown_5
 https://edge20-ash.live.mmcdn.com/live-c-fhls/amlst:fox_hev-sd-5586e26c95383c0e933e26aa7998d74e457210edcf474cbe9e07826cace32c04_trns_h264/chunklist_w325274788_b1620000_vo_sfm4s_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
 #EXTINF:-1 ,Unknown_6
 https://edge20-ash.live.mmcdn.com/live-c-fhls/amlst:fox_hev-sd-5586e26c95383c0e933e26aa7998d74e457210edcf474cbe9e07826cace32c04_trns_h264/chunklist_w325274788_b48000_ao_sfm4s_t64YXVkaW8=.m3u8
 #EXTINF:-1 ,Unknown_7
-https://edge29-chi.live.mmcdn.com/live-hls/amlst:_jasminestea_-sd-a73c60b7fd78efd14598ad523f0ad35526955609f7483fbde7f0e549a1b839d4_trns_h264/playlist.m3u8
+https://edge29-chi.live.mmcdn.com/live-hls/amlst:_jasminestea_-sd-a73c60b7fd78efd14598ad523f0ad35526955609f7483fbde7f0e549a1b839d4_vo_sfm4s_m3u8.cmfv
 #EXTINF:-1 ,Unknown_8
 https://edge21-ash.live.mmcdn.com/live-hls/amlst:jennycutey-sd-d3902cc8ff25564b6edc328ac635d35e9e4fd4fa42710ff1a364e380f97743cf_trns_h264/playlist.m3u8
 #EXTINF:-1 ,Unknown_9
 https://edge21-ash.live.mmcdn.com/live-hls/amlst:jennycutey-sd-d3902cc8ff25564b6edc328ac635d35e9e4fd4fa42710ff1a364e380f97743cf_trns_h264/chunklist_w1506231721_b1148000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 ,Unknown_10
-https://edge4-mia.live.mmcdn.com/live-hls/amlst:princess_kristy-sd-faf347e2ab13ad7b3b970206e4cbe401e0b6fdc748399ca33d80e0e0e70b0816_trns_h264/playlist.m3u8
+https://edge4-mia.live.mmcdn.com/live-hls/amlst:princess_kristy-sd-faf347e2ab13ad7b3b970206e4cbe401e0b6fdc748399ca33d80e0e0e70b0816.m3u8
 #EXTINF:-1 ,Unknown_11
 https://edge27-atl.live.mmcdn.com/live-hls/amlst:lisa__white_-sd-c15b7fc0b009e5a69a04b834f97a6f95fb885f4b479b11fea525399b1f074949_trns_h264/playlist.m3u8
 #EXTINF:-1 ,Unknown_12
