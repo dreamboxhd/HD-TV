@@ -4,9 +4,9 @@ https://b-hls-06.doppiocdn.com/hls/125061376/125061376_mp4_h264_aac_hq_7.m3u8
 #EXTINF:-1 ,edge-hls
 https://edge-hls.doppiocdn.com/hls/150979395/master/150979395_mp4_h264_aac_hq_7.m3u8
 #EXTINF:-1 ,edge-hls1
-https://edge-hls.doppiocdn.com/hls/103723538/master/103723538/hevc/stream_fmp4.m3u8
+https://edge-hls.doppiocdn.com/hls/103723538/master/103723538/new_master.m3u8
 #EXTINF:-1 ,edge-hls2
-https://edge-hls.doppiocdn.com/hls/153462739/master/153462739_fmp4.m3u8
+https://edge-hls.doppiocdn.com/hls/153462739/master/153462739/hls.m3u8
 #EXTINF:-1 ,Unknown_1
 https://edge27-ash.live.mmcdn.com/live-hls/amlst:david_0223-sd-c2d8cfac39ac0f062aa73072b3e0c51f45d38892a93d78f404bf1dec1afe1869.m3u8?wowzasegmentformat=ts
 #EXTINF:-1 ,Unknown_2
