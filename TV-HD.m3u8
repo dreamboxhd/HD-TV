@@ -8,7 +8,7 @@ https://edge-hls.doppiocdn.com/hls/103723538/master/103723538/hevc/stream_fmp4.m
 #EXTINF:-1 ,edge-hls2
 https://edge-hls.doppiocdn.com/hls/153462739/master/153462739_fmp4.m3u8
 #EXTINF:-1 ,Unknown_1
-https://edge27-ash.live.mmcdn.com/live-hls/amlst:david_0223-sd-c2d8cfac39ac0f062aa73072b3e0c51f45d38892a93d78f404bf1dec1afe1869_trns_h264/playlist_sfts.m3u8?wowzasegmentformat=ts
+https://edge27-ash.live.mmcdn.com/live-hls/amlst:david_0223-sd-c2d8cfac39ac0f062aa73072b3e0c51f45d38892a93d78f404bf1dec1afe1869.m3u8?wowzasegmentformat=ts
 #EXTINF:-1 ,Unknown_2
 https://edge18-atl.live.mmcdn.com/live-hls/amlst:sary_hott-sd-d84ad53e467a104e26a93bef4628018586895a65779ed6f34b91607611d8a6b1_trns_h264/playlist.m3u8?wowzasegmentformat=ts
 #EXTINF:-1 ,Unknown_3
