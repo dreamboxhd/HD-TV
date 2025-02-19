@@ -4,7 +4,7 @@ https://b-hls-06.doppiocdn.com/hls/125061376/125061376_mp4_h264_aac_hq_7.m3u8
 #EXTINF:-1 ,edge-hls
 https://edge-hls.doppiocdn.com/hls/150979395/master/150979395_mp4_h264_aac_hq_7.m3u8
 #EXTINF:-1 ,edge-hls1
-https://edge-hls.doppiocdn.com/hls/103723538/master/103723538-one-hls/hls.m3u8
+https://edge-hls.doppiocdn.com/hls/103723538/master/103723538/hevc/stream_fmp4.m3u8
 #EXTINF:-1 ,edge-hls2
 https://edge-hls.doppiocdn.com/hls/153462739/master/153462739-one-hls/hls.m3u8
 #EXTINF:-1 ,Unknown_1
