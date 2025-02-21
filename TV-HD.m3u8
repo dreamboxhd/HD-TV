@@ -2,8 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,Unknown_1
-https://streaming-edge-front.livemediahost.com/edge1-cod/cam/voyeurcam-baileybase-room-flu-ingest1-fld_v1/index.ll.m3u8 -c copy -bsf:a aac_adtstoasc /Users/sruthik/Downloads/converted_media.mp4
-#EXTINF:-1 ,Unknown_2
+https://streaming-edge-front.livemediahost.com/edge1-cod/cam/voyeurcam-baileybase-room-flu-ingest1-fld_v1/index.ll.m3u8?ffmpeg -i playlist.m3u8 -c copy out.ts
 https://streaming-edge-front.livemediahost.com/edge2-cad/cam/voyeurcam-julmodels-whitebed-5-flu-ingest7-prd_v1/index.ll.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_3
 https://streaming-edge-front.livemediahost.com/edge9-ild/cam/voyeurcam-baileybase-shower-flu-ingest1-fld_v1/index.ll.m3u8?authToken=getAutToken
