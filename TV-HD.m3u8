@@ -255,13 +255,13 @@ https://edge-hls.doppiocdn.net/hls/77461034/master/77461034_auto.m3u8?authToken=
 
 
 #EXTINF:-1 ,Unknown_1
-https://streaming-edge-front.livemediahost.com/edge1002-ild/cam_obs/rossi-purple-flu_v1/index.ll.m3u8?authToken=getAutToken
+https://streaming-edge-front.livemediahost.com/edge1002-ild/cam_obs/rossi-purple-flu_v1/index.ll.m3u8?playlistType=lowLatency&_HLS_msn=166&_HLS_part=3
 #EXTINF:-1 ,Unknown_2
-https://streaming-edge-front.livemediahost.com/edge2-cad/cam_obs/solarkate-flu_v1/index.ll.m3u8?authToken=getAutToken
+https://streaming-edge-front.livemediahost.com/edge2-cad/cam_obs/solarkate-flu_v1/index.ll.m3u8?playlistType=lowLatency&_HLS_msn=166&_HLS_part=3
 #EXTINF:-1 ,Unknown_3
-https://streaming-edge-front.livemediahost.com/edge3-cad/854x480/alexaporter-flu-ingest10-ild_v1/index.ll.m3u8?authToken=getAutToken
+https://streaming-edge-front.livemediahost.com/edge3-cad/854x480/alexaporter-flu-ingest10-ild_v1/index.ll.m3u8?playlistType=lowLatency&_HLS_msn=166&_HLS_part=3
 #EXTINF:-1 ,Unknown_4
-https://streaming-edge-front.livemediahost.com/edge1-cad/cam_obs/angela-love1-flu_v1/index.ll.m3u8?authToken=getAutToken
+https://streaming-edge-front.livemediahost.com/edge1-cad/cam_obs/angela-love1-flu_v1/index.ll.m3u8?playlistType=lowLatency&_HLS_msn=166&_HLS_part=3
 #EXTINF:-1 ,Unknown_5
 https://streaming-edge-front.livemediahost.com/edge6-fld/cam_obs/abbyy-lopez-flu_v1/index.ll.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_6
