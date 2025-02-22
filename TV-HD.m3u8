@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ,HustlerHD
+https://moonlight.wideiptv.top/HustlerHD/playlist.m3u8?token=dba98cb963ad6ecf096aa5c64a27030434e68333-edf372b53e06f249a5d8ac68c5014bce-1740235979-1740225179
+
 #EXTINF:-1 ,Unknown_1
 https://streaming-edge-front.livemediahost.com/edge1-cod/cam/voyeurcam-baileybase-room-flu-ingest1-fld_v1/index.ll.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_2
