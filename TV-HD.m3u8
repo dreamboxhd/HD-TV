@@ -5,7 +5,8 @@ https://stackvaults-hls.xcdnpro.com/88c20110-dbbc-456e-8396-117e1ad561dd/hls/as+
 https://cam4-hls.xcdnpro.com/316/cam4-origin-live/bluestar_taylen-316-08b300ad-0e88-4629-b1ea-f9161d6cd2ca_aac/playlist.m3u8?authToken=getAutToken
 #EXTINF:-1 ,cam42
 https://cam4-hls.xcdnpro.com/313/cam4-origin-live/MuseOfHeart-313-dc35f541-1773-43bd-a227-e79100546487_aac/playlist.m3u8?authToken=getAutToken
-
+#EXTINF:-1 ,cam423
+https://stackvaults-hls.xcdnpro.com/f00e8fae-f4f7-4d84-ad07-0885c27c7046/hls/as+795263b8-0967-462e-bafd-80708c69faf4/index.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_1
 https://streaming-edge-front.livemediahost.com/edge1-cod/cam/voyeurcam-baileybase-room-flu-ingest1-fld_v1/index.ll.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_2
