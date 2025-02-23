@@ -19,8 +19,10 @@ https://cam4-hls.xcdnpro.com/316/cam4-origin-live/skinnycanella18-316-fd7147b2-5
 https://stackvaults-hls.xcdnpro.com/ff4dc20d-c554-49ef-aba7-ebfbfd934375/hls/as+ad823079-a561-40d1-8797-2d105f4780c1/index.m3u8?authToken=getAutToken
 #EXTINF:-1 ,cam4-8
 https://cam4-hls.xcdnpro.com/320/cam4-origin-live/Couplehot_2024-320-dbc10bfb-b724-415f-b669-01f9abcbd667_aac/playlist.m3u8?authToken=getAutToken
-#EXTINF:-1 ,cam4--9
+#EXTINF:-1 ,cam4-9
 https://cam4-hls.xcdnpro.com/282/cam4-origin-live/OrvaForster-282-a9a3dc35-49c4-4467-a9fd-79b1cec7aa45_aac/playlist.m3u8?authToken=getAutToken
+#EXTINF:-1 ,cam4-10
+https://stackvaults-hls.xcdnpro.com/643d428e-3316-4a9f-a42f-24f7fb1fce16/hls/as+4540b48e-7a67-4c83-b4bf-f87890fe3934/index.m3u8?authToken=getAutToken
 #EXTINF:-1 ,voyeurcam
 https://streaming-edge-front.livemediahost.com/edge1-cod/cam/voyeurcam-baileybase-room-flu-ingest1-fld_v1/index.ll.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_2
