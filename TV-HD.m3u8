@@ -5,9 +5,9 @@ https://moonlight.wideiptv.top/HustlerHD/playlist.m3u8?token=dba98cb963ad6ecf096
 #EXTINF:-1 ,hustlerhd/ortepe
 https://ortepe.xyz:23759/tv/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI1IDEyOjMxOjQ2IFBNJmhhc2hfdmFsdWU9QW03NmtvR3o3SCtvZkZKbW42VC93UT09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1 ,sakuralive
-https://stream1222.dxlive.com/free/1958294572/playlist.m3u8?authToken=getAutToken
+https://stream1222.dxlive.com/1958294572/playlist.m3u8?authToken=getAutToken
 #EXTINF:-1 ,stripchat.com
-https://edge-hls.doppiocdn.com/hls/119823483/master/119823483_auto.m3u8?playlistType=lowLatency
+https://edge-hls.doppiocdn.com/hls/119823483/master/11982348/playlist/_auto.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_1
 https://streaming-edge-front.livemediahost.com/edge1-cod/cam/voyeurcam-baileybase-room-flu-ingest1-fld_v1/index.ll.m3u8?authToken=getAutToken
 #EXTINF:-1 ,Unknown_2
