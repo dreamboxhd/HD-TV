@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,sakuralive
+https://stackvaults-hls.xcdnpro.com/88c20110-dbbc-456e-8396-117e1ad561dd/hls/as+bece2e8f-2082-4fc1-8d90-6cd9acab81b7/index.m3u8?authToken=getAutToken
+#EXTINF:-1 ,sakuralive
 https://cam4-hls.xcdnpro.com/316/cam4-origin-live/bluestar_taylen-316-08b300ad-0e88-4629-b1ea-f9161d6cd2ca_aac/playlist.m3u8?authToken=getAutToken
 #EXTINF:-1 ,stripchat.com
 https://cam4-hls.xcdnpro.com/318/cam4-origin-live/hornycougaar-318-5894157b-65cf-4c7c-bb19-c13c6631ad8d_aac/playlist.m3u8?authToken=getAutToken
