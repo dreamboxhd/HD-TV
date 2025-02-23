@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 ,LIVE-TV
+https://edge18-ash.live.mmcdn.com/live-hls/amlst:shycinderella-sd-5886f2979f031613d75d2f026213a464117bec3314d05a44c0734e0853a20060_trns_h264/playlist.m3u8?authToken=getAutToken
+
 #EXTINF:-1 ,cam4-XXX
 https://cam4-hls.xcdnpro.com/316/cam4-origin-live/amyevanz-316-03841630-50a4-4e51-a3f0-7dcc57b01a1c_aac/playlist.m3u8?authToken=getAutToken
 
