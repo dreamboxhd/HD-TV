@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,cam4-0
+https://stackvaults-hls.xcdnpro.com/e84b8650-a721-4940-b564-e64854eb734c/hls/as+4d8d0297-7015-4df5-93e5-efb4eb1c7947/index.m3u8?authToken=getAutToken
 #EXTINF:-1 ,cam4
 https://stackvaults-hls.xcdnpro.com/88c20110-dbbc-456e-8396-117e1ad561dd/hls/as+bece2e8f-2082-4fc1-8d90-6cd9acab81b7/index.m3u8?authToken=getAutToken
 #EXTINF:-1 ,cam4-1
