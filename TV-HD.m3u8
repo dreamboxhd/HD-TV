@@ -1,4 +1,85 @@
 #EXTM3U
+#EXTINF:-1 ,edge11
+https://edge11-fra.live.mmcdn.com/live-hls/amlst:as1an_girlfriend-sd-996b23d8dacac50f2d82f43ba467c104460c750b622c1e35d8960e26da9da672_trns_h264/chunklist_w1979269611_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXTINF:-1 ,edge11
+https://edge11-fra.live.mmcdn.com/live-hls/amlst:as1an_girlfriend-sd-996b23d8dacac50f2d82f43ba467c104460c750b622c1e35d8960e26da9da672_trns_h264/playlist.m3u8
+#EXTINF:-1 ,edge12
+https://edge11-fra.live.mmcdn.com/live-hls/amlst:as1an_girlfriend-sd-996b23d8dacac50f2d82f43ba467c104460c750b622c1e35d8960e26da9da672_trns_h264/chunklist_w1979269611_b3096000_t64RlBTOjMwLjA=.m3u8
+https://edge11-fra.live.mmcdn.com/live-hls/amlst:as1an_girlfriend-sd-996b23d8dacac50f2d82f43ba467c104460c750b622c1e35d8960e26da9da672_trns_h264/playlist.m3u8
+
+#EXTINF:-1 ,edge13
+https://edge8-hel.live.mmcdn.com/live-hls/amlst:deedeedoll-sd-93546a1144a11e3934526988662a0e4150eec7706c31b3461798fd6f67d87cc7_trns_h264/chunklist_w40426933_b3096000_t64RlBTOjI5Ljk3MDAyOTk3MDAyOTk3.m3u8
+https://edge8-hel.live.mmcdn.com/live-hls/amlst:deedeedoll-sd-93546a1144a11e3934526988662a0e4150eec7706c31b3461798fd6f67d87cc7_trns_h264/playlist.m3u8
+#EXTINF:-1 ,edge14
+https://edge12-ams.live.mmcdn.com/live-hls/amlst:coventinaashfield-sd-ae34941d40994b40d9f7318b9593d028d8293c3315956c362f1507ebd593bbb9_trns_h264/chunklist_w1021847643_b3096000_t64RlBTOjMwLjA=.m3u8
+https://edge12-ams.live.mmcdn.com/live-hls/amlst:coventinaashfield-sd-ae34941d40994b40d9f7318b9593d028d8293c3315956c362f1507ebd593bbb9_trns_h264/playlist.m3u8
+
+#EXTINF:-1 ,edge15
+https://dash-s24-n10-fr-cdn.eporner.com/hls/srv2/12671800-720p-av1.mp4/index-v1-a1.m3u8?hash=AVI0YUfqUo7t2hUOwhq83A&expires=1740407414&ip=89.38.97.139&id=1267180
+https://dash-s24-n10-fr-cdn.eporner.com/hls/v2/12671800-,240p-av1,360p-av1,480p-av1,720p-av1,1080p-av1,.mp4.urlset/master.m3u8?hash=AVI0YUfqUo7t2hUOwhq83A&expires=1740407414&ip=89.38.97.139
+
+#EXTINF:-1 ,edge16
+https://dash-s2-n10-fr-cdn.eporner.com/hls/11812648-1080p.mp4/index-v1-a1.m3u8?hash=ZFZux8kouQSH4oi6sj0fDg&expires=1740407567&ip=89.38.97.139&id=11812648
+https://dash-s2-n10-fr-cdn.eporner.com/hls/11812648-720p.mp4/index-v1-a1.m3u8?hash=ZFZux8kouQSH4oi6sj0fDg&expires=1740407567&ip=89.38.97.139&id=11812648
+#EXTINF:-1 ,edge17
+https://dash-s2-n10-fr-cdn.eporner.com/hls/11812648-,240p,360p,480p,720p,1080p,.mp4.urlset/master.m3u8?hash=ZFZux8kouQSH4oi6sj0fDg&expires=1740407567&ip=89.38.97.139
+#EXTINF:-1 ,edge18
+https://dash-s43-n10-fr-cdn.eporner.com/hls/v1/9934488-,240p,360p,480p,720p,.mp4.urlset/master.m3u8?hash=QPgL8c7y1T9qlP_65xxkQA&expires=1740407765&ip=89.38.97.139
+https://dash-s43-n10-fr-cdn.eporner.com/hls/srv1/9934488-720p.mp4/index-v1-a1.m3u8?hash=QPgL8c7y1T9qlP_65xxkQA&expires=1740407765&ip=89.38.97.139&id=9934488
+
+#EXTINF:-1 ,live
+#EXTINF:-1 ,live/live-edge36-rn.bcvcdn.com/hls/stream_Shan1302/public-aac/stream_Shan1302/chunks.m3u8
+#EXTINF:-1 ,live1
+https://live-edge36-rn.bcvcdn.com/hls/stream_Shan1302/public-aac/stream_Shan1302_480/chunks.m3u8
+#EXTINF:-1 ,live2
+https://live-edge36-rn.bcvcdn.com/hls/stream_Shan1302/public-aac/stream_Shan1302_240/chunks.m3u8
+#EXTINF:-1 ,live3
+https://live-edge36-rn.bcvcdn.com/hls/stream_Shan1302/playlist.m3u8
+
+#EXTINF:-1 ,live4
+https://live-edge-us44-rn.bcvcdn.com/hls/stream_molysmith/public-aac/stream_molysmith_240/chunks.m3u8
+#EXTINF:-1 ,live5
+https://live-edge36-rn.bcvcdn.com/hls/stream_Shan1302/playlist.m3u8
+
+#EXTINF:-1 ,live6
+https://live-edge71-rn.bcvcdn.com/hls/stream_Nidhilove/public-aac/stream_Nidhilove/chunks.m3u8
+#EXTINF:-1 ,live7
+https://live-edge71-rn.bcvcdn.com/hls/stream_Nidhilove/public-aac/stream_Nidhilove_720/chunks.m3u8
+#EXTINF:-1 ,live8
+https://live-edge71-rn.bcvcdn.com/hls/stream_Nidhilove/public-aac/stream_Nidhilove_480/chunks.m3u8
+#EXTINF:-1 ,live9
+https://live-edge71-rn.bcvcdn.com/hls/stream_Nidhilove/public-aac/stream_Nidhilove_240/chunks.m3u
+
+#EXTINF:-1 ,b-hls
+https://b-hls-12.doppiocdn.net/hls/189926977/189926977_720p.m3u8?playlistType=lowLatency&_HLS_msn=4122&_HLS_part=1
+#EXTINF:-1 ,b-hls1
+https://b-hls-12.doppiocdn.net/hls/189926977/189926977_720p.m3u8?playlistType=lowLatency&_HLS_msn=4122&_HLS_part=0
+#EXTINF:-1 ,b-hls2
+https://b-hls-12.doppiocdn.net/hls/189926977/189926977_720p.m3u8?playlistType=lowLatency&_HLS_msn=4121&_HLS_part=3
+#EXTINF:-1 ,b-hls3
+https://b-hls-12.doppiocdn.net/hls/189926977/189926977_720p.m3u8?playlistType=lowLatency&_HLS_msn=4121&_HLS_part=2
+#EXTINF:-1 ,b-hls4
+https://b-hls-24.doppiocdn.net/hls/175494496/175494496_720p.m3u8?playlistType=lowLatency&_HLS_msn=856&_HLS_part=0
+
+#EXTINF:-1 ,b-hls5
+https://b-hls-24.doppiocdn.net/hls/162758127/162758127_1080p.m3u8?playlistType=lowLatency&_HLS_msn=1083&_HLS_part=3
+#EXTINF:-1 ,b-hls6
+https://b-hls-04.doppiocdn.net/hls/106701932/106701932_1080p60.m3u8?playlistType=lowLatency&_HLS_msn=5260&_HLS_part=0
+
+#EXTINF:-1 ,moonlight
+https://moonlight.wideiptv.top/EvilAngel/tracks-a1/index.fmp4.m3u8?token=942d3ce9314cef3a4eceb33a947edf23b5a9cf5d-8860cad68b336cd1677640e8c0d6d460-1740334854-1740324054
+#EXTINF:-1 ,moonlight1
+https://moonlight.wideiptv.top/EvilAngel/tracks-v1/index.fmp4.m3u8?token=942d3ce9314cef3a4eceb33a947edf23b5a9cf5d-8860cad68b336cd1677640e8c0d6d460-1740334854-1740324054
+#EXTINF:-1 ,moonlight2
+https://moonlight.wideiptv.top/EvilAngel/index.fmp4.m3u8?token=942d3ce9314cef3a4eceb33a947edf23b5a9cf5d-8860cad68b336cd1677640e8c0d6d460-1740334854-1740324054
+#EXTINF:-1 ,moonligh3
+https://moonlight.wideiptv.top/VIXEN/tracks-a1/index.fmp4.m3u8?token=ecde79f2a70a67fce670fdbf89f3a8124480889d-75aaa6fed6824cdc1e8afc006417e44d-1740334975-1740324175
+#EXTINF:-1 ,moonlight4
+https://moonlight.wideiptv.top/VIXEN/tracks-v1/index.fmp4.m3u8?token=ecde79f2a70a67fce670fdbf89f3a8124480889d-75aaa6fed6824cdc1e8afc006417e44d-1740334975-1740324175
+#EXTINF:-1 ,moonlight5
+https://moonlight.wideiptv.top/VIXEN/index.fmp4.m3u8?token=ecde79f2a70a67fce670fdbf89f3a8124480889d-75aaa6fed6824cdc1e8afc006417e44d-1740334975-1740324175
+#EXTINF:-1 ,porn100.tv
+https://www.porn100.tv/videourl/29/kinky-teen-gives-stranger-blowjob-in-the-car-amateur-bokep-live-porn
 
 #EXTINF:-1 ,LIVE-TV
 https://edge8-ams.live.mmcdn.com/live-hls/amlst:sophydiva-sd-04b7045c8538872520e0f69f5c3370f4b96acd09ea8bd8c5b4fe62195d8b4b1a_trns_h264/playlist.m3u8
