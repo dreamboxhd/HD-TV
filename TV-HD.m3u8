@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 ,edge11
-https://edge28-ash.live.mmcdn.com/live-hls/amlst:ashley_ospino-sd-e91d1b5c7b36505547ec3d084be9c1e09cc807e078df2477b48e4b407f6a10cb_trns_h264/playlist.m3u8
+#EXTINF:-1 ,Unknown_20
+https://edge9-aus.live.mmcdn.com/live-hls/amlst:sigmasian-sd-6f00286172c821b348037b8d672ba26006a2e0d5f8f5873cb1a9ff3f5c7ca045_trns_h264/playlist.m3u8?authToken=getAutToken
 
 
 #EXTINF:-1 ,live4
