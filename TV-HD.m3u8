@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,Unknown_20
-https://edge8-aus.live.mmcdn.com/live-hls/amlst:nanaleon-sd-cab2d69d922be1efe2fa26550c5e53bd23835f9
+https://edge10-chi.live.mmcdn.com/live-hls/amlst:nanaleon-sd-cab2d69d922be1efe2fa26550c5e53bd23835f9482c1bfe5c9ac8c44403d788c_trns_h264/chunklist_w585408725_b448000_t64RlBTOjMwLjA=.m3u8
 #EXTINF:-1 ,live4
 https://live-edge-us44-rn.bcvcdn.com/hls/stream_molysmith/public-aac/stream_molysmith_240/chunks.m3u8
 
