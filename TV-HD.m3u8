@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 ,oklivetv1
-https://oklivetv.com/live/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+http://www.stream2watch.co/live-tv/live/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
 #EXTINF:-1 ,oklivetv2
-https://oklivetv.com/live/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
+http://www.stream2watch.co/live-tv/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
 #EXTINF:-1 ,oklivetv3
 http://46.101.231.222/xplay/live/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
 #EXTINF:-1 ,oklivetv4
@@ -21,9 +21,9 @@ https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
 
 
 #EXTINF:-1 ,Unknown_1
-http://46.101.231.222/live/b-hls-03/171995956/171995956_1080p.m3u8?playlistType=lowLatency&_HLS_msn=2914&_HLS_part=2
+http://www.stream2watch.co/live-tv/b-hls-03/171995956/171995956_1080p.m3u8?playlistType=lowLatency&_HLS_msn=2914&_HLS_part=2
 #EXTINF:-1 ,Unknown_2
-http://46.101.231.222/b-hls-03/171995956/171995956_1080p.m3u8?playlistType=lowLatency&_HLS_msn=2914&_HLS_part=2
+http://www.stream2watch.co/live-tv/b-hls-03/171995956/171995956_1080p.m3u8?playlistType=lowLatency&_HLS_msn=2914&_HLS_part=2
 #EXTINF:-1 ,Unknown_3
-https://oklivetv.com/playlist/b-hls-17/175836948/175836948_1080p.m3u8?playlistType=lowLatency&_HLS_msn=6666&_HLS_part=0
+http://www.stream2watch.co/live-tv/b-hls-17/175836948/175836948_1080p.m3u8?playlistType=lowLatency&_HLS_msn=6666&_HLS_part=0
 
